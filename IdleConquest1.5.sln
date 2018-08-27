@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdleConquest1._5", "IdleConquest1.5\IdleConquest1._5\IdleConquest1._5.csproj", "{E2A1EF6F-2882-4F6B-81C7-7D39BA19A116}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "IdleConquest1._5Content", "IdleConquest1.5\IdleConquest1._5Content\IdleConquest1._5Content.contentproj", "{D0E65D99-7559-4B4F-B430-357A647F2B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A1EF6F-2882-4F6B-81C7-7D39BA19A116}.Debug|x86.ActiveCfg = Debug|x86
+		{E2A1EF6F-2882-4F6B-81C7-7D39BA19A116}.Debug|x86.Build.0 = Debug|x86
+		{E2A1EF6F-2882-4F6B-81C7-7D39BA19A116}.Release|x86.ActiveCfg = Release|x86
+		{E2A1EF6F-2882-4F6B-81C7-7D39BA19A116}.Release|x86.Build.0 = Release|x86
+		{D0E65D99-7559-4B4F-B430-357A647F2B77}.Debug|x86.ActiveCfg = Debug|x86
+		{D0E65D99-7559-4B4F-B430-357A647F2B77}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
